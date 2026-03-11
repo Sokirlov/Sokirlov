@@ -6,8 +6,6 @@
 
 I build scalable backend platforms using **Python**, design **event-driven systems**, and optimize services handling **large volumes of real-time traffic**.
 
-
-![Snake animation](https://github-readme-stats.vercel.app/api/pin/?username=Sokirlov\&repo=snake-eating-commits)
 ---
 
 # 🧠 About Me
